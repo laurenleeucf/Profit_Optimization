@@ -10,6 +10,7 @@ The objective of this project was to distribute environmental, property, and ass
 A linear optimization model was built in Python to address this problem. The model displayed the following results:
 
 - Objective value: $2,621,709 of profit per month
+
 - Asset assessments: L1 employees = 150 assessments
 - Asset assessments: L2 employees = 140 assessments
 - Asset assessments: L3 employees = 400 assessments
