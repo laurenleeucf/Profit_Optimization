@@ -11,4 +11,13 @@ A linear optimization model was built in Python to address this problem. The mod
 
 - Objective value: $2,621,709 of profit per month
 - Asset assessments: L1 employees = 150 assessments
-- 
+- Asset assessments: L2 employees = 140 assessments
+- Asset assessments: L3 employees = 400 assessments
+
+- Environmental assessments: L1 employees = 200 assessments
+- Environmental assessments: L2 employees = 0 assessments
+- Environmental assessments: L3 employees = 0 assessments
+
+- Property assessments: L1 employees = 120 assessments
+- Property assesments: L2 employees = 100 assessments
+- Property assesments: L3 employees = 0 assessments
